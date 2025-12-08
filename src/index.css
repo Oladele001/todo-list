@@ -1,0 +1,56 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.body{
+  width: 30rem;
+  height: 30rem;
+  background-color: whiteSmoke;
+  border-radius: 1rem;
+  margin: auto;
+  margin-top: 2rem;
+}
+.write-here{
+  width: 18rem;
+  height: 3rem;
+  background-color: aqua;
+  border-radius: 0.5rem;
+  margin-top: 5rem;
+  margin: auto;
+  margin-left: 4rem;
+}
+.submit{
+  width: 7rem;
+  height: 3rem;
+  background-color: gray;
+  color: white;
+  font-weight: bold;
+  font-size: 1rem;
+  border-radius: 1rem;
+}
+.margin{
+  margin-top: 2rem;
+}
+.text{  
+  color: blue;
+  font-weight: bolder;
+  font-size: 2rem;
+  font-style: italic;
+}
+.list{
+  margin-left: 2rem;
+  margin-top: 2rem;
+}
+.cancle{
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  border: 3px solid black;
+  margin-left: 1rem;
+}
+.number{
+  font-size: 2rem;
+  font-weight: bolder;
+  color: blue;
+}
