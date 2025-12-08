@@ -23,7 +23,7 @@ const Todolist = () => {
         <input className='write-here' type="text" placeholder='WHAT ARE YOU DOING TODAY' value={Input} onChange={(e) => setInput(e.target.value)} />
         <button onClick={handleSubmit} className='submit'>SUBMIT</button>
         </div>
-        {/* <ol className='list'>
+        <ol className='list'>
             {Todo.map(({text, id}) => (
                 <li className='number' key={id}>
                     <span className='text'>{text}</span>
@@ -32,7 +32,7 @@ const Todolist = () => {
             ))
 
             }
-        </ol> */}
+        </ol>
     </div>
     </>
   )
