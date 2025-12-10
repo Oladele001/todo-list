@@ -29,6 +29,8 @@
   font-weight: bold;
   font-size: 1rem;
   border-radius: 1rem;
+  margin-left: 0.5rem;
+  margin-top: 2rem;
 }
 .margin{
   margin-top: 2rem;
@@ -38,10 +40,12 @@
   font-weight: bolder;
   font-size: 2rem;
   font-style: italic;
+  margin-left: 1rem;
 }
 .list{
   margin-left: 2rem;
   margin-top: 2rem;
+  padding-right: 2rem;
 }
 .cancle{
   width: 2rem;
